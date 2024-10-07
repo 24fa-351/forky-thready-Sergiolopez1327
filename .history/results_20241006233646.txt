@@ -1,0 +1,120 @@
+Pattern 1:
+Thing 8 (PID 23070) starting
+Thing 8 (PID 23070) exiting
+Thing 1 (PID 23063) starting
+Thing 1 (PID 23063) exiting
+Thing 6 (PID 23068) starting
+Thing 6 (PID 23068) exiting
+Thing 3 (PID 23065) starting
+Thing 3 (PID 23065) exiting
+Thing 2 (PID 23064) starting
+Thing 2 (PID 23064) exiting
+Thing 7 (PID 23069) starting
+Thing 7 (PID 23069) exiting
+Thing 9 (PID 23071) starting
+Thing 9 (PID 23071) exiting
+Thing 4 (PID 23066) starting
+Thing 4 (PID 23066) exiting
+Thing 5 (PID 23067) starting
+Thing 5 (PID 23067) exiting
+
+Pattern 2:
+Thing 1 (PID 23085) starting
+Thing 1 (PID 23085) creating Thing 2
+Thing 1 (PID 23085) exiting
+Thing 2 (PID 23086) starting
+Thing 2 (PID 23086) creating Thing 3
+Thing 2 (PID 23086) exiting
+Thing 3 (PID 23087) starting
+Thing 3 (PID 23087) creating Thing 4
+Thing 3 (PID 23087) exiting
+Thing 4 (PID 23088) starting
+Thing 4 (PID 23088) creating Thing 5
+Thing 4 (PID 23088) exiting
+Thing 5 (PID 23089) starting
+Thing 5 (PID 23089) creating Thing 6
+Thing 5 (PID 23089) exiting
+Thing 6 (PID 23091) starting
+Thing 6 (PID 23091) creating Thing 7
+Thing 6 (PID 23091) exiting
+Thing 7 (PID 23092) starting
+Thing 7 (PID 23092) creating Thing 8
+Thing 7 (PID 23092) exiting
+Thing 8 (PID 23093) starting
+Thing 8 (PID 23093) creating Thing 9
+Thing 8 (PID 23093) exiting
+Thing 9 (PID 23094) starting
+Thing 9 (PID 23094) creating Thing 10
+Thing 9 (PID 23094) exiting
+
+Pattern 3:
+Thing 1 (root) starting
+Thing 1 creating Thing 2
+Thing 2 (PID 23096) starting
+Thing 2 (PID 23096) exiting
+Thing 1 (root) starting
+Thing 1 creating Thing 3
+Thing 3 (PID 23097) starting
+Thing 3 (PID 23097) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 2 creating Thing 5
+Thing 5 (PID 23099) starting
+Thing 5 (PID 23099) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 2 creating Thing 4
+Thing 4 (PID 23098) starting
+Thing 4 (PID 23098) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 3 creating Thing 6
+Thing 6 (PID 23100) starting
+Thing 6 (PID 23100) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 3 creating Thing 7
+Thing 7 (PID 23101) starting
+Thing 7 (PID 23101) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 4 creating Thing 8
+Thing 8 (PID 23103) starting
+Thing 8 (PID 23103) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 4 creating Thing 9
+Thing 9 (PID 23104) starting
+Thing 9 (PID 23104) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 5 creating Thing 11
+Thing 11 (PID 23107) starting
+Thing 11 (PID 23107) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 5 creating Thing 10
+Thing 10 (PID 23106) starting
+Thing 10 (PID 23106) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 6 creating Thing 12
+Thing 12 (PID 23108) starting
+Thing 12 (PID 23108) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 6 creating Thing 13
+Thing 13 (PID 23109) starting
+Thing 13 (PID 23109) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 7 creating Thing 14
+Thing 14 (PID 23110) starting
+Thing 14 (PID 23110) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
+Thing 7 creating Thing 15
+Thing 15 (PID 23111) starting
+Thing 15 (PID 23111) exiting
+Thing 1 (root) starting
+Thing 1 (PID 23095) exiting
